@@ -8,7 +8,11 @@ A discord bot made in Nextcord for Rock Paper Scissors
 
 ## Editing
 
-Just change the token at the "client.run("PUT YOUR TOKEN HERE")"
+Just change the token at the code below
+
+```
+client.run("PUT YOUR TOKEN HERE")
+```
 
 ## Links
 
